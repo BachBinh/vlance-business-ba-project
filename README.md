@@ -7,14 +7,5 @@ The solution focuses on enhancing transparency, reliability, and matching effici
 - Designed UI wireframes and user flows using Figma.
 - Defined UAT and success metrics.
 
-## 🧩 Deliverables
-| Category | Documents |
-|-----------|------------|
-| Business Context | [Problem Statement](1_Business_Context/) |
-| Requirements | [BRD](2_Requirements/BRD.pdf), [Function List](2_Requirements/Function_List.xlsx), [Use Cases](2_Requirements/Use_Case_Diagrams/) |
-| Design | [Figma Wireframes (PNG)](3_Design/Figma_Wireframes/) |
-| Testing | [UAT Test Cases](4_Testing/) |
-| Presentation | [Slides](5_Presentation/) |
-
 ## 🛠 Tools & Techniques
 Figma · Excel · Draw.io · Power BI · Agile/Scrum · SDLC · Requirement Analysis (BRD/SRS)
